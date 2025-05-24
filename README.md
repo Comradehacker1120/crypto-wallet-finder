@@ -21,7 +21,7 @@ measures.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/crypto-wallet-finder.git
+   git clone https://github.com/Comradehacker1120/crypto-wallet-finder
    cd crypto-wallet-finder
    ```
 
