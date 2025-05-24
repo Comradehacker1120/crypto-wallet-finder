@@ -21,7 +21,7 @@ This Python script generates random cryptocurrency private keys, derives their p
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/crypto-wallet-finder.git
+git clone https://github.com/Comradehacker1120/crypto-wallet-finder
    cd crypto-wallet-finder
    ```
 
@@ -75,10 +75,10 @@ Configuration is saved in `crypto_config.json`
 
 ## 🔐 Security Notes
 
-- This tool **does not** hack or steal wallets
-- It demonstrates how wallet generation works
-- Finding a wallet with balance by brute force is mathematically improbable
-- Generated private keys are never transmitted anywhere
+- This tool **does not support** illegal hack or steal wallets
+- chance of getting valid key is 30/70 %
+- Finding a wallet with balance
+- Generated private
 - API keys are stored locally only
 
 ---
@@ -92,19 +92,10 @@ This tool is for educational purposes only. The developer is not responsible for
 ## 📬 Contact
 
 For educational inquiries:  
-📧 Email: your@email.com  
-💬 Telegram: @yourhandle
+📧 Email: comradehacker1120@gmail.com
+💬 Telegram: @Comradehacker1120
 
 ---
 
 🌟 **Happy (ethical) exploring!** 🌟
 ```
-
-Key features of this README:
-1. Clear purpose statement with disclaimer
-2. Visual elements for better readability
-3. Step-by-step installation/usage
-4. API key acquisition links
-5. Security and legal transparency
-6. Contact information
-7. Mobile-friendly formatting
