@@ -2,7 +2,7 @@
 ```markdown
 # Multi-Crypto Wallet Finder 🚀
 
-![Banner](https://i.imgur.com/example.png)  
+![Banner](https://i.imgur.com/inytj.png)  
 *"Scanning the blockchain for accessible wallets"*  
 
 💰 **Supported Cryptocurrencies**: Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), Dogecoin (DOGE)
@@ -26,12 +26,14 @@ git clone https://github.com/Comradehacker1120/crypto-wallet-finder
    ```
 
 2. **Install dependencies**:
+
+3. 
    ```bash
    pip install -r requirements.txt
    ```
    (Or manually install: `requests`, `python-telegram-bot`, `bip32utils`, `mnemonic`)
 
-3. **Run the setup wizard**:
+4. **Run the setup wizard**:
    ```bash
    python wallet_finder.py
    ```
