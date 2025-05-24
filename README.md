@@ -1,7 +1,7 @@
 
 # Multi-Crypto Wallet Finder 🚀
 
-![Banner](https://i.imgur.com/inytj.png)  
+![Banner](https://i.imgur.com/crypto.png)  
 *"Scanning the blockchain for accessible wallets"*  
 
 💰 **Supported Cryptocurrencies**: Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), Dogecoin (DOGE)
@@ -13,6 +13,7 @@
 This Python script generates random cryptocurrency private keys, derives their public addresses, and checks for balances on various blockchains. When it finds a wallet with a balance, it saves the details and can send Telegram alerts.
 
 ⚠️ **Important Note**: This is for educational purposes only. Finding wallets with balances this way is statistically extremely unlikely due to cryptographic security measures.
+measures.
 
 ---
 
@@ -20,12 +21,11 @@ This Python script generates random cryptocurrency private keys, derives their p
 
 1. **Clone the repository**:
    ```bash
-git clone https://github.com/Comradehacker1120/crypto-wallet-finder
+   git clone https://github.com/yourusername/crypto-wallet-finder.git
    cd crypto-wallet-finder
    ```
 
 2. **Install dependencies**:
-
 3. 
    ```bash
    pip install -r requirements.txt
